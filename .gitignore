@@ -1,0 +1,8 @@
+*.DS_Store
+*.pyc
+*~
+*.db
+*.sqlite
+/settings_local.py
+/init_local.py
+/initial_data.*
